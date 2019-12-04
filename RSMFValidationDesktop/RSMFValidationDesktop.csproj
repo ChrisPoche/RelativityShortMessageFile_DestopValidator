@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RSMFValidatorSampleCode\RSMFValidationSampleCode.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\RSMFValidatorSampleCode\bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NJsonSchema">
+      <HintPath>..\RSMFValidatorSampleCode\bin\Debug\NJsonSchema.dll</HintPath>
+    </Reference>
+    <Reference Include="Relativity.RSMFU.Validator">
+      <HintPath>bin\Debug\netcoreapp3.0\Relativity.RSMFU.Validator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

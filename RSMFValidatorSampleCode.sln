@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSMFValidationSampleCode", "RSMFValidatorSampleCode\RSMFValidationSampleCode.csproj", "{4F1007D0-9027-4A81-9E3A-3D58739FBA93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSMFValidationDesktop", "RSMFValidationDesktop\RSMFValidationDesktop.csproj", "{769ECEC4-E73A-4509-869B-27094BE55455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F1007D0-9027-4A81-9E3A-3D58739FBA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1007D0-9027-4A81-9E3A-3D58739FBA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1007D0-9027-4A81-9E3A-3D58739FBA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1007D0-9027-4A81-9E3A-3D58739FBA93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{769ECEC4-E73A-4509-869B-27094BE55455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769ECEC4-E73A-4509-869B-27094BE55455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769ECEC4-E73A-4509-869B-27094BE55455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769ECEC4-E73A-4509-869B-27094BE55455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A310FB3-3B21-4552-AF47-ED9DAC240B0B}
+	EndGlobalSection
+EndGlobal
