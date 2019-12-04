@@ -7,7 +7,7 @@ The RSMFValidatorSampleCode project illustrates how to leverage the RSMF Validat
 
 ## Desktop Client EXE
 
-The Desktop Client, RSMFValidationDesktop, was created on top of the Console Application RSMFValidationSampleCode. It has been built and is ready to be run from the GUI. It can be found under .\rsmf-validator-samples-master\RSMFValidationDesktop\bin\Debug\netcoreapp3.0\
+The Desktop Client, RSMFValidationDesktop, was created on top of the Console Application RSMFValidationSampleCode. Build and run it from the GUI. It can be found under .\rsmf-validator-samples-master\RSMFValidationDesktop\bin\Debug\netcoreapp3.0\
 
 Note: My contribution is the WPF app, not the Console app.
 
